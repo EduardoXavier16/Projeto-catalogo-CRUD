@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "projeto-catalogo-crud",
+  "description": "Projeto de aprendizagem da turma C011-M02-WBC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoXavier16/Projeto-catalogo-CRUD.git"
+  },
+  "author": "Eduardo Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoXavier16/Projeto-catalogo-CRUD/issues"
+  },
+  "homepage": "https://github.com/EduardoXavier16/Projeto-catalogo-CRUD#readme"
+}
